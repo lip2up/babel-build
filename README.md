@@ -1,2 +1,2 @@
-# babel-build
+# babel-bundle
 custom babel build
