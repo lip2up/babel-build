@@ -1,6 +1,6 @@
 {
   "name": "babel-bundle",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "custom babel build",
   "main": "index.js",
   "author": "lip2up",
@@ -9,8 +9,8 @@
     "type": "git",
     "url": "git@github.com:lip2up/gulp-cmd-build.git"
   },
-  "devDependencies": {
-    "babel-core": "^6.21.0",
+  "dependencies": {
+    "babel-core": "^6.25.0",
     "babel-plugin-transform-class-properties": "^6.19.0",
     "babel-plugin-transform-es2015-arrow-functions": "^6.8.0",
     "babel-plugin-transform-es2015-block-scoping": "^6.21.0",
