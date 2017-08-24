@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:lip2up/gulp-cmd-build.git"
+    "url": "git@github.com:lip2up/babel-bundle.git"
   },
   "dependencies": {
     "babel-core": "^6.25.0",
