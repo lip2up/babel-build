@@ -1,6 +1,6 @@
 {
   "name": "babel-bundle",
-  "version": "1.7.0",
+  "version": "1.7.2",
   "description": "custom babel build",
   "main": "index.js",
   "author": "lip2up",
